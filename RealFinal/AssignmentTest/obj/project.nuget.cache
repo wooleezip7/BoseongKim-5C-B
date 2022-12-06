@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "ZjaaJQbAjf6yOdUu+fX23UsrZpAMwtpN+UfZsjs1FihW7AHeF5vxxbpOe0RRjGUI0EpsEgQlJWMH2Lp5NhOCYg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\BoseongKim\\Desktop\\TAFESA\\5C#W\\RealFinal\\AssignmentTest\\AssignmentTest.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\BoseongKim\\.nuget\\packages\\microsoft.codecoverage\\16.5.0\\microsoft.codecoverage.16.5.0.nupkg.sha512",
+    "C:\\Users\\BoseongKim\\.nuget\\packages\\microsoft.net.test.sdk\\16.5.0\\microsoft.net.test.sdk.16.5.0.nupkg.sha512",
+    "C:\\Users\\BoseongKim\\.nuget\\packages\\nunit\\3.12.0\\nunit.3.12.0.nupkg.sha512",
+    "C:\\Users\\BoseongKim\\.nuget\\packages\\nunit3testadapter\\3.16.1\\nunit3testadapter.3.16.1.nupkg.sha512"
+  ],
+  "logs": []
+}
